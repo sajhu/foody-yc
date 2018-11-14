@@ -34,7 +34,7 @@ a:hover {color: #336699; text-decoration: underline;}
 .tip strong {margin-right: 5px;}
 
 .controls {
-	width: 320px; height: 70px;
+	width: 420px; height: 100px;
 	margin: 50px auto; padding: 5px 15px;
 
 	background: #f1f1f1;
@@ -44,9 +44,8 @@ a:hover {color: #336699; text-decoration: underline;}
 }
 .controls h1 {margin-bottom: 15px; font-size: 14px; font-weight: bold;}
 .controls .key {
-	float: left;
 	margin-right: 5px; padding: 3px 6px;
-
+	display: inline-block;
 	color: #fff;
 	background: #333;
 	font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace; font-weight: bold;
@@ -54,9 +53,8 @@ a:hover {color: #336699; text-decoration: underline;}
 	text-shadow: #000 0 1px 0;
 }
 .controls .act {
-	float: left;
 	margin: 3px 20px 0 0;
-
+	float: right;
 	color: #777;
 	font-size: 12px;
 }
