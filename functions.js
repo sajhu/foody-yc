@@ -5,13 +5,13 @@ function next_q()
 {
 	if ( $('#end').hasClass('hide') == true )
 	{
-		
+
 		var question = q.shift();
-		
+
 		if (question != 'done')
 		{
 			$('#question').html(question);
-			
+
 			timer_restart();
 			display_tip();
 		} else
@@ -19,7 +19,9 @@ function next_q()
 			$('#question').addClass('hide');
 			$('#timer').addClass('hide');
 			$('.pg').addClass('hide');
-			
+			$('.foody').removeClass('hide');
+
+
 			$('#end').removeClass('hide');
 		}
 	}
@@ -34,12 +36,12 @@ function timer_tick()
 {
 	$('#timer').removeClass('warning');
 	$('#timer').removeClass('fail');
-	
+
 	timer = timer - 1;
-	
+
 	$('#timer').html(timer + ' s');
-	
-	
+
+
 	if (timer < 10)
 	{
 		$('#timer').addClass('warning');
@@ -53,8 +55,9 @@ function timer_tick()
 	{
 		$('#timer').addClass('hide');
 		$('.pg').removeClass('hide');
+		$('.foody').addClass('hide');
 	}
-	
+
 	 setTimeout('timer_tick();', 1000);
 }
 
@@ -63,10 +66,11 @@ function timer_restart()
 	$('#timer').removeClass('warning');
 	$('#timer').removeClass('fail');
 	$('.pg').addClass('hide');
+	$('.foody').removeClass('hide');
 	$('#timer').removeClass('hide');
-	
+
 	timer = 15;
-	
+
 	$('#timer').html('15 s');
 }
 
@@ -78,8 +82,8 @@ function timer_restart()
 function display_tip()
 {
 	var tip = tips.shift();
-	
+
 	$('#tip').html(tip);
-	
+
 	tips.push(tip);
 }
