@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Lato:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
 
 body {
 	font: 14px 'Lato', sans-serif;
@@ -62,8 +62,8 @@ a:hover {color: #336699; text-decoration: underline;}
 }
 .controls .act:last-child {margin-right: 0;}
 
-.pg {margin-bottom: 50px; text-align: center;}
-.foody {margin-bottom: 20px; text-align: center;}
+.pg {margin-bottom: 50px; text-align: center; cursor: pointer}
+.foody {margin-bottom: 20px; text-align: center; cursor: pointer}
 .hide {display: none;}
 
 .footer {
