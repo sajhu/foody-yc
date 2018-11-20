@@ -79,7 +79,19 @@ var q = [
 	'Tell us about a tough problem you solved it?',
 	'How did you decided who was going to be the CEO?',
 	'How do you complement each other?',
-	'Why you, Antonio?'
+	'Why you, Antonio?',
+	'So what’s the big idea here?',
+	'¿Why are your margins so low?',
+	'How will you become a Unicorn?',
+	'Why will you become a unicorn?',
+	'I see scalability issues, how will you overcome that?',
+	'How do you convince your employees to join you?',
+	'How will you manage to keep the business working from here?',
+	'Why should a candidate work for you?',
+	'Why YC?',
+	'You were in other accelerator, why again?',
+	'What is Foody’s biggest risk?'
+
 ];
 
 // Tips
