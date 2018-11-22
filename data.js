@@ -90,8 +90,18 @@ var q = [
 	'Why should a candidate work for you?',
 	'Why YC?',
 	'You were in other accelerator, why again?',
-	'What is Foody’s biggest risk?'
-
+	'What is Foody’s biggest risk?',
+	'How are you healthy?',
+	'Is it risky to deliver food at room temperature?',
+	'Juan, Why you decided to join Foody and sell your business?',
+	'Andrés, What makes you especial?',
+	'Juan, what makes you special?',
+	'Antonio, what don’t you like about Andrés?',
+	'Antonio, what don’t you like about Juan?',
+	'Juan, what don’t you like about Andrés?',
+	'Juan, what don’t you like about Antonio?',
+	'Andrés, what don’t you like about Antonio?',
+	'Andrés, what don’t you like about Juan?'
 ];
 
 // Tips
