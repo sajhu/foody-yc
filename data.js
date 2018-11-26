@@ -101,7 +101,17 @@ var q = [
 	'Juan, what don’t you like about Andrés?',
 	'Juan, what don’t you like about Antonio?',
 	'Andrés, what don’t you like about Antonio?',
-	'Andrés, what don’t you like about Juan?'
+	'Andrés, what don’t you like about Juan?',
+	'How does the subscription work?',
+	'Why is your conversion rate so low?',
+	'What is your vision?',
+	'What’s your expansion plan?',
+	'Why you unit economics work?',
+	'How would you compete with Rappi ',
+	'How would you compete with Deliz',
+	'Why Jorge no longer works with you?',
+	'How’s your cap table?',
+	'Juan, who would you date in Foody?'
 ];
 
 // Tips
