@@ -111,7 +111,14 @@ var q = [
 	'How would you compete with Deliz',
 	'Why Jorge no longer works with you?',
 	'How’s your cap table?',
-	'Juan, who would you date in Foody?'
+	'Juan, who would you date in Foody?',
+	'What’s Foody’s Lifehack',
+	'How are you going to expand to other cities?',
+	'What’s your marketing strategy?',
+	'Andrés, do you really like Jennifer?',
+	'Antonio, who would you put before, Foody or Erica?',
+	'Juan, if you had to, would you kiss Antonio or Andrés?',
+
 ];
 
 // Tips
