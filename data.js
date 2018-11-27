@@ -117,8 +117,9 @@ var q = [
 	'What’s your marketing strategy?',
 	'Andrés, do you really like Jennifer?',
 	'Antonio, who would you put before, Foody or Erica?',
-	'Juan, if you had to, would you kiss Antonio or Andrés?',
-
+	'Juan, if you had to, would you kiss Antonio or Andrés? please do so now',
+	'Andrés, Jeniffer or open relationships?',
+	'Antonio, how many wet dreams have you had with La Manicurista?'
 ];
 
 // Tips
