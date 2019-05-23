@@ -119,7 +119,11 @@ var q = [
 	'Antonio, who would you put before, Foody or Erica?',
 	'Juan, if you had to, would you kiss Antonio or Andrés? please do so now',
 	'Andrés, Jeniffer or open relationships?',
-	'Antonio, how many wet dreams have you had with La Manicurista?'
+	'Antonio, how many wet dreams have you had with La Manicurista?',
+	'How are you going to compete with Rappi?',
+	'Why delivering cold is better for the user?',
+	'How are you defensible?',
+	'What is the difference with rappi?'
 ];
 
 // Tips
