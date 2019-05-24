@@ -123,7 +123,8 @@ var q = [
 	'How are you going to compete with Rappi?',
 	'Why delivering cold is better for the user?',
 	'How are you defensible?',
-	'What is the difference with rappi?'
+	'What is the difference with rappi?',
+	'Why haven’t you grown faster?''
 ];
 
 // Tips
