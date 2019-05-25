@@ -124,7 +124,7 @@ var q = [
 	'Why delivering cold is better for the user?',
 	'How are you defensible?',
 	'What is the difference with rappi?',
-	'Why haven’t you grown faster?''
+	'Why haven’t you grown faster?'
 ];
 
 // Tips
